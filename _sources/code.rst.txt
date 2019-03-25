@@ -1,0 +1,5 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_Fan_Ziyu
+    :members:
+    :undoc-members:
